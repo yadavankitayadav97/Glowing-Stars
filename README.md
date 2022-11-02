@@ -1,2 +1,3 @@
 # Glowing-Stars
-This is our Team repo .
+This is our  our team repository
+
